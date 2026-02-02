@@ -29,9 +29,9 @@ title: Resume
   </span>
 </div>
 
-  - running experiments with strontium atoms in optical tweezers.
-  - managing daily lab activities that includes maintenance and repair of lasers and other instruments.
-  - mentoring 3 graduate students towards their Ph.D. degree.
+  - design and run quantum simulation experiments with ultracold Rydberg atoms.
+  - mentor for 5 graduate and 2 undergraduate students. 
+  - lab manager.
 
 ---
 <h2> Experience </h2>
@@ -62,10 +62,18 @@ title: Resume
   <div class="job-title">B.Sc. & M.Sc in Physics, NISER, India</div>
   <div class="job-dates">2016</div>
 </div>
+<h2>Management </h2>
+- managing a research group composed of 5 graduate and 2 undergraduate students.
+- liason between facilities, IT, and administration to effectively establish new research modules in the lab.
+- collaborating with graduate students, principal investigators and theory collaborators to write research manuscripts.
+- securing research funds by writing grants and proposals.
 
-<h2>Skills </h2>
-- Trapping atoms in magneto-optic traps (MOTs), optical dipole trap (ODT) and tweezers for ultracold atomic physics experiments.
-- Laser frequency stabliization using various locking schemes.
-- Designing ultrahigh vacuum apparatus.
-- Building electronic control systems for lasers and RF.
-- Python, MATLAB, Mathematica, COMSOL, SolidWORKS, Inventor, AutoCAD. 
+<h2>Experimental skills </h2>
+- Setting up apparatus for quantum physics experiments.
+- Building magneto-optical traps (MOTs), optical dipole traps (ODT) and optical tweezers for single-atom control.
+- Locking laser frequencies to optical cavity (eg. ULE) resonances.
+- Building electronic control circuits for lasers, acousto-optic and electro-optic modulators, etc.
+- Designing scientific ultrahigh vacuum apparatus.
+- Machining with lathe and mill. 
+- Coding with Python, MATLAB, Mathematica.
+- Designing with COMSOL, SolidWORKS, Inventor, AutoCAD.
